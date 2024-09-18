@@ -1,0 +1,41 @@
+[33mcommit 49f632cb6ecefddaf7bde025836916d3e27b673c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Ilya Petrikov <ilyapetrikov391@gmail.com>
+Date:   Wed Sep 18 15:47:50 2024 +0300
+
+    Тестовая запись для log
+
+[33mcommit aa4cdadfc25919e3df085158069be5254f0de70c[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ilya Petrikov <ilyapetrikov490@yandex.ru>
+Date:   Wed Sep 18 15:36:07 2024 +0300
+
+    Создание папки dev,first-project и файлов index.html,styles.css
+
+[33mcommit 6452c9c206df9d0f781a3896f4c8a0e8006dc96c[m
+Author: Ilya Petrikov <ilyapetrikov490@yandex.ru>
+Date:   Wed Sep 18 14:23:36 2024 +0300
+
+    Добавление строчки
+
+[33mcommit b3f4d700630b3e24ea7b8e2b56e059ba841f0094[m
+Author: Ilya Petrikov <ilyapetrikov490@yandex.ru>
+Date:   Wed Sep 18 14:16:14 2024 +0300
+
+    task.txt
+
+[33mcommit 2f4c80caf69eb4491735c1b2ab15a30a4dac4311[m
+Author: Ilya Petrikov <ilyapetrikov490@yandex.ru>
+Date:   Wed Sep 18 12:53:04 2024 +0300
+
+    Изменение файла todo.txt
+
+[33mcommit 5464a40bcaa8644fdc42432f0cf2447e2ea65744[m
+Author: Ilya Petrikov <ilyapetrikov490@yandex.ru>
+Date:   Wed Sep 18 12:49:27 2024 +0300
+
+    Изменение содержания readme.txt
+
+[33mcommit 58fb94a4a2a36a834dcf4bffebe467230e139674[m
+Author: Ilya Petrikov <ilyapetrikov490@yandex.ru>
+Date:   Wed Sep 18 12:40:50 2024 +0300
+
+    Мой первый коммит
